@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+    opacity: 0.9;
+}
+
+nav{
+    height:69px;
+    border-bottom: 1px solid seashell;
+    position:fixed;
+    width: 100%;
+    display:flex;
+}
+
+nav img{
+    height: 50px;
+}
+
+.main{
+    height: 700px;
+    position: relative;
+    background-image: url(./teacozy/media/img-mission-background.jpeg);
+}
+
